@@ -18,8 +18,6 @@ NEWSPIDER_MODULE = 'zhiyuan_test.spiders'
 
 LOG_LEVEL='WARN'
 
-
-
 MYSQL_HOST = 'localhost'
 MYSQL_PORT = 3306
 MYSQL_DBNAME = 'webgisdb'
